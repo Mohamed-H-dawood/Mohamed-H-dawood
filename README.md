@@ -4,14 +4,15 @@
 <h3  Skills 🛠️ </h3>
 <h3>Technical Skills</h3>
 <ul>
-  <li><strong>Languages:</strong> C#, HTML, CSS</li>
-  <li><strong>Frameworks:</strong> .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework</li>
-  <li><strong>Databases:</strong> MySQL Server</li>
-  <li><strong>Tools:</strong> Git, Visual Studio, Postman</li>
+  <li><strong>Languages :</strong>  C#, opp, data structure and algorithms ,  HTML, CSS </li>
+  <li><strong>Frameworks :</strong> .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework</li>
+  <li><strong>Databases :</strong> MySQL Server</li>
+  <li><strong>Tools :</strong>  Visual Studio </li>
+  <li><strong> c# + opp , Data structure </strong></li>
 </ul>
 <hr>
 <h1> Contact Information 📞 </h1>
-Feel free to connect with me!
+
 <h3>Contact Information</h3>
 <ul>
   <li><strong>Email:</strong> <a href="mailto:mdawd6138@gmail.com">mdawd6138@gmail.com</a></li>
