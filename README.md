@@ -8,7 +8,6 @@
   <li><strong>Frameworks :</strong> .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework</li>
   <li><strong>Databases :</strong> MySQL Server</li>
   <li><strong>Tools :</strong>  Visual Studio </li>
-  <li><strong> c# + opp , Data structure </strong></li>
 </ul>
 <hr>
 <h1> Contact Information 📞 </h1>
