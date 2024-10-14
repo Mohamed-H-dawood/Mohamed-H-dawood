@@ -1,7 +1,26 @@
 <h1> Hi there 👋</h1>
 <h4 align="center">I'm Mohamed Hamd dawood, a passionate Backend Developer specializing in .NET Core. I'm currently pursuing my degree in Computer Engineering with a focus on computer science. I enjoy building robust and scalable web solutions that prioritize clean code.</h4>
+<hr>
+<h3  Skills 🛠️ </h3>
+<h3>Technical Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> C#, HTML, CSS</li>
+  <li><strong>Frameworks:</strong> .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework</li>
+  <li><strong>Databases:</strong> MySQL Server</li>
+  <li><strong>Tools:</strong> Git, Visual Studio, Postman</li>
+</ul>
+<hr>
+<h1> Contact Information 📞 </h1>
+Feel free to connect with me!
+<h3>Contact Information</h3>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:mdawd6138@gmail.com">mdawd6138@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="http://linkedin.com/in/mohamed-h-dawood-0266bb297" target="_blank">Mohamed H. Dawood on LinkedIn</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/Mohamed-H-dawood" target="_blank">Mohamed H. Dawood on GitHub</a></li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+<h5> Happy coding! 🚀 </h5> 
+<hr> 
 <p align="left">
 </p>
 
